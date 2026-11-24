@@ -1,3 +1,7 @@
+[![One Word for the Boss](https://make.fun/badge/u-swift-badger-44-one-word-for-the-boss-6b48c735.svg)](https://make.fun/bounty/u-swift-badger-44-one-word-for-the-boss-6b48c735)
+[![Rank](https://make.fun/badge/u-swift-badger-44-one-word-for-the-boss-6b48c735/Bozet404/u-swift-badger-44-one-word-for-the-boss-6b48c735/rank.svg)](https://make.fun/bounty/u-swift-badger-44-one-word-for-the-boss-6b48c735)
+[![Reward](https://make.fun/badge/u-swift-badger-44-one-word-for-the-boss-6b48c735/Bozet404/u-swift-badger-44-one-word-for-the-boss-6b48c735/reward.svg)](https://make.fun/bounty/u-swift-badger-44-one-word-for-the-boss-6b48c735)
+
 # One Word for the Boss
 
 Entry for the make.fun bounty
